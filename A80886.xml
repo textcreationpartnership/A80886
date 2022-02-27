@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration by the Lord Lieutenant of Ireland. Concerning His resolutions for the peace and safety of Ireland, and the free injoyment of the rights of the people. Together with the copies of severall letters taken in Ireland, of great consequence. This declaration is appointed to be printed and published throughout all Ireland, by speciall direction from O. Cromwell.</title>
+            <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80886</idno>
+            <idno type="STC">Wing C7056</idno>
+            <idno type="STC">Thomason E573_24</idno>
+            <idno type="STC">ESTC R206267</idno>
+            <idno type="EEBO-CITATION">99865439</idno>
+            <idno type="PROQUEST">99865439</idno>
+            <idno type="VID">165405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165405)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E573[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration by the Lord Lieutenant of Ireland. Concerning His resolutions for the peace and safety of Ireland, and the free injoyment of the rights of the people. Together with the copies of severall letters taken in Ireland, of great consequence. This declaration is appointed to be printed and published throughout all Ireland, by speciall direction from O. Cromwell.</title>
+                  <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Dublin by William Bladen and re-printed at London by Robert Ibbiston, dwelling in Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: A declaration by the Lord Lieutenant of Ireland. In which Cromwell orders his officers and soldiery to forbear "to rob and pillage, and .. execute cruelties upon the country people." - The Marquesse of Ormonds letter to Prince Rupert. Signed and dated: Finglasse 25 July. 1649. Ormond.</note>
+                  <note>Prince Ruperts proposals. Regarding difficulties of provisioning the Royal fleet. Dated 18 and 22 July 1649.</note>
+                  <note>Annotation on Thomason copy: "7ber: [i.e. September] 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165405:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g> A Declaration By the Lord Lieutenant of IRELAND.</p>
+            <p>Concerning His Reſolutions for the peace and ſafety of <hi>Ireland,</hi> And the free injoyment of the Rights of the People.</p>
+            <p>Together with the Copies of ſeverall Letters taken in <hi>Ireland,</hi> of great conſequence.</p>
+            <p>THis Declaration is appointed to be Printed and publiſhed throughout all <hi>Ireland,</hi> by ſpeciall direction from <hi>O. CROMWELL.</hi>
+            </p>
+            <figure/>
+            <p>Printed at <hi>Dublin</hi> by <hi>William Bladen,</hi> and Re-printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> dwelling in Smithfield. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165405:2"/>
+            <pb n="1" facs="tcp:165405:2"/>
+            <head>A DECLARATION By the Lord Lieutenant of IRELAND.</head>
+            <opener>
+               <salute>O: CROMWELL,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas I am informed, That upon the marching out of the Armies heretofore, or of Parties from Garriſons, a liberty hath been taken by the Souldiery to abuſe rob and Pillage, and too often to execute cruel<g ref="char:EOLhyphen"/>ties upon the Country people, being reſol<g ref="char:EOLhyphen"/>ved by the grace of God diligently and ſtrictly to reſtraine ſuch wickedneſſe for the future, I doe hereby warne and require all Officers, Souldiers, and others under my Command henceforth to for<g ref="char:EOLhyphen"/>bear
+<pb n="2" facs="tcp:165405:3"/>
+all ſuch evill practiſes as aforeſaid, and not to doe any wrong or violence toward Country people or perſons what<g ref="char:EOLhyphen"/>ſoever, unleſſe they be actually in Armes or Office with the Enemy, and not to medle with the goods of ſuch without ſpe<g ref="char:EOLhyphen"/>ciall order, And I further declare that it ſhal be free and law<g ref="char:EOLhyphen"/>full to and for all manner of Perſons dwelling in the Coun<g ref="char:EOLhyphen"/>try as wel Gentlemen and Souldiers, as Farmors and other people (ſuch as are in Armes or Office with or for the Ene<g ref="char:EOLhyphen"/>my onely excepted) to make their repaire and bring any pro<g ref="char:EOLhyphen"/>viſions unto the Army (while in March or Campe) or unto any Garriſon under my Command, hereby aſſuring all ſuch that they ſhall not bee troubled or moleſted in their perſons or goods, but ſhall have the benefit of a free Market and re<g ref="char:EOLhyphen"/>ceive ready money for goods or Commodities they ſhall ſo bring and ſell, And that they behaving themſelves peacea<g ref="char:EOLhyphen"/>bly and quietly, and paying ſuch Contribution proportionably with their neighbours as have been, are, or ſhall be duly and orderly impoſed upon them for maintenance of the Parlia<g ref="char:EOLhyphen"/>ments Forces and other publicke uſes, ſhall have free leave and liberty to live at home with their families and goods, and ſhall bee protected in their perſons and eſtates by vertue hereof untill the firſt day of Ianuary next, by or vertue which time all ſuch of them as are minded to reſide and plow and ſow in the quarters, are to make their addreſſes for now and further Protections, to the Atturney General reſiding at <hi>Dublin,</hi> and ſuch other perſons as ſhall bee Authorized for that purpoſe, And hereof I require all Souldiers, and others under my Command diligently to take notice and obſerve the ſame as they ſhal anſwer to the contrary at their utmoſt per<g ref="char:EOLhyphen"/>ills, ſtrictly charging and Commanding all Officers and o<g ref="char:EOLhyphen"/>thers in their ſeverall places carefully to ſee to it, that no wrong or violence be done to any ſuch perſon as aforeſaid contrary to the effect of the premiſes, and being reſolved (through the grace of God) to puniſh all that ſhall offend con<g ref="char:EOLhyphen"/>trary hereunto, very ſeverely according to law or Ar<g ref="char:EOLhyphen"/>ticles of Warre, to diſplace and otherwiſe puniſh, all ſuch Officers as ſhal be found negligent in their places to, and not ſee the due obſervance hereof, or not to puniſh the offenders under their reſpective Commands.</p>
+            <closer>
+               <dateline>Given at Dublin <date>the twenty fourth of Auguſt, 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:165405:3"/>
+            <head>The copies of ſeverall Letters taken in <hi>Ireland</hi> by the Lord Lieutenant.</head>
+            <div type="letter">
+               <head>The Marqueſſe of <hi>Ormonds</hi> Letter to Prince <hi>Rupert</hi>
+               </head>
+               <opener>
+                  <salute>May it pleaſe your Lordſhip.</salute>
+               </opener>
+               <p>I Hope the courſe formerly laid down when <hi>Dene Boyle</hi> went hence, and the Horſe and Foot drawne into thoſe parts, will prevent the inconveniencies and dangers threatned upon that coaſt, whatever elſe ſeems fit to your highnes I will upon the leaſt notice of your pleaſure, put into immediate execution, I am exceed<g ref="char:EOLhyphen"/>ingly ſorry for <hi>Wil. Legs</hi> miſ-fortunes, wherein by the miſcarrying of his diſpatch we have a great ſhare, be<g ref="char:EOLhyphen"/>ſides the danger of his loſſe. This gentleman, I beleive formerly knowne to your highneſſe, is particularly re<g ref="char:EOLhyphen"/>commended too by her highneſſes Majeſty, and brings with him aſſurance of his Majeſties being in <hi>France,</hi> be<g ref="char:EOLhyphen"/>fore his imbarking: I have indeavoured another way to ſend over a relation of our condition here, and ſome<g ref="char:EOLhyphen"/>thing I ventured to ſay of the Fleet, I hope it wil iſſue ſeaſonably to prevent any prejudice may ariſe to his Perſon or ſervice for want of intelligence, we are now removing nearer <hi>Dublin,</hi> with deſire if we can to take the Sea, and conſequently any hope of releife from the enemy. There are 12 ſmall veſſells come in this morning, but whither with ſupply of men or proviſi<g ref="char:EOLhyphen"/>on we do not know. I humbly beg your highnes par<g ref="char:EOLhyphen"/>don for this unmannerly paper, the beſt I could get at preſent, and your beleife of my being,</p>
+               <closer>
+                  <signed>Your Highneſſe moſt faithfull and moſt humble Servant, <hi>ORMOND.</hi>
+                  </signed>
+                  <dateline>Finglaſſe <date>25 July. 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:165405:4"/>
+               <head>Prince Ruperts Propoſals:</head>
+               <p>THe ordinary way of his Majeſties victualling the Fleet, with the allowance to every man <hi>per diem</hi> is, Beer one gallon; Beefe two pound twice in the week; Pork one pound two days in a week; of Peaſe that day to each man one Pint; Cheeſe foure ounces, Butter two ounces; Fiſh if of a ſize one to eight men; Bread one pound.</p>
+               <p>Theſe proviſions will not be had under 7 <hi>d. per diem,</hi> as the Market goes yet.</p>
+               <p>To ſet out his Majeſties Fleet now riding at <hi>Kingſale,</hi> will require at leaſt 1200 men, which will require 1000 <hi>li. per menſem</hi> to victuall them<g ref="char:punc">▪</g> with other petty charges.</p>
+               <p>The Fleet hath not at preſent victualls for above one month, and when it is expired, if there bee not proviſions made to re-victuall, there will be a neceſſity of diſcharging the men, and laying up the ſhips, the former not to be got together without a vaſt charge; the latter by that means re<g ref="char:EOLhyphen"/>newed.</p>
+               <p>The ſumme of 3000 <hi>l.</hi> in victualling will remedy this, and whoſoever will furniſh the ſame, may be aſſured of ſud<g ref="char:EOLhyphen"/>den ſatisfaction as ſoon as time of the year (which grows on) ſhall call away the ſhips now riding before <hi>Kingſale,</hi> it being then a fit ſeaſon for our Fleet to put to ſea, when the Enemies dare not venture ſo far from their owne coaſts; and we by reaſon of our ſafe harbours, and ſhort voyages be<g ref="char:EOLhyphen"/>tween the coaſts of <hi>Spaine</hi> and <hi>France,</hi> and theſe parts ſhall be able to croſſe the whole trade, through both channels; and every South and Weſterly wind which ſhuts them up in their harbour, if they were ready ſhall bring ſhips from all Sou<g ref="char:EOLhyphen"/>therne and Eaſterne parts into our laps.</p>
+               <p>The middle or latter end of <hi>September</hi> will be a fit time to go out, till which time there muſt be ſome courſe taken to ſupply the Fleet after that this months victuals that we have ſhall bee expended, beſides the 3000 <hi>l.</hi> formerly menti<g ref="char:EOLhyphen"/>oned.</p>
+               <p>
+                  <pb n="5" facs="tcp:165405:4"/>
+                  <hi>September</hi> will likewiſe bee a fit time to bake Bread, brew Beer, and make all ſorts of proviſions for the Fleet.</p>
+               <p>In the mean time we ſhall take occaſion, as it ſhall offer it ſelfe by force or violent winds, or the Enemies going a<g ref="char:EOLhyphen"/>way with their ſhips, to ſend out ſome of our ſmall veſſels to look after purchaſe, out of which the firſt that comes to be imployed, to repay ſuch as ſhall engage for the victuals.</p>
+               <closer>
+                  <signed>R<g ref="char:V">Ʋ</g>PERT.</signed>
+                  <dateline>
+                     <date>July 18. 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Prince <hi>Ruperts</hi> firſt Letter to my Lord of <hi>Ormond.</hi>
+               </head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>THe certaine ruine of this Fleet being to follow the ex<g ref="char:EOLhyphen"/>pence of thoſe few proviſions we now feed on, which have exalted the reſt of his Majeſties monies, beſides that lit<g ref="char:EOLhyphen"/>tle I had, I thought fit to diſpatch this bearer Mr. <hi>Roach</hi> to the Lord Preſident to propoſe the only remedy now in view to put this Fleet in a condition of the King and this King<g ref="char:EOLhyphen"/>domes ſervice: If your Lordſhip approve the Propoſitions, I ſhall earneſtly deſire that this ſeaſon may not be loſt, in which proviſions are eaſieſt to bee had: The particulars of this buſineſſe your Lordſhip will receive from this bearer, to whom you may give credit; and if conveniently your Lord<g ref="char:EOLhyphen"/>ſhip may grant theſe deſires, it will infinitly oblige,</p>
+               <closer>
+                  <salute>My Lord,</salute> 
+                  <signed>Your Lordſhips moſt faithfull friend and ſervant, <hi>RUPERT.</hi>
+                  </signed>
+                  <dateline>Kingſale <date>22. July 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Prince <hi>Ruperts</hi> ſecond Letter.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>THis bearer Mr. <hi>Parker</hi> hath all his buſineſſe ready, and I hope to your Lordſhips ſatisfaction, though wee
+<pb n="6" facs="tcp:165405:5"/>
+are in theſe ſtraits, that after a month we ſhall hardly know where to get ſubſiſtance for our Fleet, though never ſo much reduced. I thought your Lordſhip might want for the pre<g ref="char:EOLhyphen"/>ſent ſervice, which I preferred, and am reſolved to finde out ſome other way to ſupply our wants hereafter, by the firſt I ſhal let your Lordſhip know our reſolutions; Your Lordſhip will remember that I told you ſomething concerning the Gover<g ref="char:EOLhyphen"/>nour here, ſince which time I have received intelligence out of the Rebels Admirall, that they are in hopes of him, and that his Gunner at the poynt will ſhoot but looſe powder, And when that is ſetled, they will come to us, theſe and ſome other reaſons I have of ſuſpition, made me ſend <hi>Will. Legge</hi> to him to deſire him that ſince my men muſt doe duty in other places for him, that they may do it at the point, where he hath but five fellows that he knows not, and upon which all our ſecurity depends, there is not a horſeman here abouts to hin<g ref="char:EOLhyphen"/>der the Rebels to fetch water, which they ſhould want ex<g ref="char:EOLhyphen"/>treamly if Tymoley were not open, from whence they fetch it daily as well as their Intelligence. Your Lordſhip will bee pleaſed to give Your Orders for the beſt,</p>
+               <closer>I am <signed>your Lordſhips Moſt faithfull Friend and Servant RUPERT.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
